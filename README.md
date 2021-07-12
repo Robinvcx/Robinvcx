@@ -6,7 +6,7 @@ My master is Blind Guardian. https://github.com/Tugra-Guldogan
 - 🔭 I’m currently working on My Website 
 - 🌱 I’m currently learning Html/Javascript/Css/Python
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Robinvcx/Robinvcx/blob/main/tenor%20(4).gif">
+<img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Robinvcx/Robinvcx/blob/main/tenor%20(4).gif">
 
 ### My Hobies✨ :
 - Watching Anime
