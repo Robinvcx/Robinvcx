@@ -3,5 +3,6 @@ I like Neovim, Thinkpads, Debian and Lua.
 That's it if you have questions my Discord is:
 
 <div id="header" align="left">
+  = Robin/örneyasko💅#0101
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968968.png" width="100"/> = Robin/örneyasko💅#0101
 </div>
